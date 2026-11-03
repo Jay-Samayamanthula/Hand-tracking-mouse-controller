@@ -253,7 +253,7 @@ Make sure your webcam is connected and accessible before starting the applicatio
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="hand-gesture-preview.png"
+  <img src="Hand Gesture Mouse Controller Demo.png"
        alt="Illustrative preview of webcam-based hand gesture recognition"
        width="850">
 </p>
