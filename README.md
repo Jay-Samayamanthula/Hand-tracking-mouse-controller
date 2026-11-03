@@ -105,32 +105,13 @@ By combining webcam-based hand tracking and gesture-based controls, the applicat
 
 ---
 
+
 ## 🛠️ Technology Stack
 
-### Programming Language
-
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge)
-
-### Hardware
-
-- Webcam for real-time hand tracking.
-- Computer with mouse and keyboard interaction support.
-
-### Development Tools
-
-- Python
-- pip
-- Git
-- GitHub
-
-*Install the exact package dependencies listed in requirements.txt.*
-
----
+- **Python** – Core programming language
+- **OpenCV** – Webcam access and image processing
+- **MediaPipe** – Real-time hand landmark detection
+- **PyAutoGUI** – Mouse and keyboard automation
 
 ## 🏗️ System Architecture
 
