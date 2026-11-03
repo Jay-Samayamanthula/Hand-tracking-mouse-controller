@@ -249,6 +249,20 @@ Make sure your webcam is connected and accessible before starting the applicatio
 
 ---
 
+
+## 🖼️ Project Preview
+
+<p align="center">
+  <img src="hand-gesture-preview.png"
+       alt="Illustrative preview of webcam-based hand gesture recognition"
+       width="850">
+</p>
+
+<p align="center">
+  <i>Illustrative representation of webcam-based hand gesture recognition and computer control.</i>
+</p>
+
+
 ## 💡 Applications
 
 This project demonstrates potential applications in:
